@@ -58,7 +58,6 @@ Includes:
 
 ---
 
-
 ## ✅ Programmatic Navigation
 Uses:
 - `navigate()`
@@ -187,22 +186,6 @@ react-native-reanimated
 @expo/vector-icons
 ```
 
----
-
-# 🔗 Deep Linking Setup
-
-Example linking config:
-
-```tsx
-const linking = {
-  prefixes: ['foodapp://'],
-  config: {
-    screens: {
-      RestaurantDetail: 'restaurant/:id',
-    },
-  },
-}
-```
 
 ---
 
