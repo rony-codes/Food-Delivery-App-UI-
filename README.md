@@ -58,17 +58,6 @@ Includes:
 
 ---
 
-## ✅ Deep Linking
-Supports direct navigation using:
-
-```bash
-foodapp://restaurant/123
-```
-
-Example:
-- Opens Restaurant Detail screen directly
-
----
 
 ## ✅ Programmatic Navigation
 Uses:
