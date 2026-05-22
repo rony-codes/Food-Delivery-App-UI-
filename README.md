@@ -19,7 +19,7 @@ This project demonstrates:
 ## ✅ Authentication Flow
 - Onboarding Screens
 - Login Screen
-- Persistent Auth Flow
+- Auth Flow Screen
 - Redirect after login
 
 ---
